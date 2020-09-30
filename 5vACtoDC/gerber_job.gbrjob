@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-09-17T17:37:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "5vacnew"
+        },
+        "Owner": "Vinod Antony <antonyvinod@rocketmail.com>",
+        "Size": {
+            "X": 60.63,
+            "Y": 40.63
+        }
+    }
+}
