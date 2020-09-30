@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-09-29T18:00:55Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Dual Power Suppl Center T"
+        },
+        "Owner": "Vinod Antony <antonyvinod@rocketmail.com>",
+        "Size": {
+            "X": 68.812725,
+            "Y": 53.032075
+        }
+    }
+}
